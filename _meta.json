@@ -1,0 +1,9 @@
+{
+  "name": "内容策划师",
+  "version": "2.0.0",
+  "description": "活动/出差/讲课前的内容产出最大化策划，规划素材采集方案、预估产出数量、制定执行清单",
+  "author": "清华哥",
+  "platforms": ["workbuddy", "qclaw", "openclaw", "codex", "claude-code", "cline"],
+  "requirements": {},
+  "entry": "SKILL.md"
+}

@@ -1,0 +1,21 @@
+{
+  "show_on_site": true,
+  "runtime": "local",
+  "stage": 2,
+  "role": "策划经理",
+  "avatar": {
+    "style": "notionists",
+    "seed": "planner-strategy-pro"
+  },
+  "capabilities": [
+    "file_write"
+  ],
+  "clients": [
+    "claude-code",
+    "opencode",
+    "workbuddy",
+    "openclaw",
+    "claude-desktop"
+  ],
+  "description_short": "活动出差前内容产出最大化规划"
+}
